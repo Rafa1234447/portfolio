@@ -1,0 +1,51 @@
+body {
+    background-color: #000000;
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+}
+.team-item {
+    background-color: #515151; 
+    padding: 20px;
+    border-radius: 8px; 
+}
+
+.modal-content{
+    background-color: #515151; 
+    padding: 20px;
+    border-radius: 8px; 
+	
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: 200;
+	letter-spacing: 0.4px;
+	font-family: "Raleway", Sans-serif;
+	color: #ffffff;
+}
+
+
+.section-title h2 {
+	font-size: 45px;
+	text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+p {
+    color: #00d9ff; /* Verde */
+}
+
+#Modal-1 .modal-body p,
+#Modal-2 .modal-body p,
+#Modal-3 .modal-body p,
+#Modal-4 .modal-body p,
+#Modal-5 .modal-body p,
+#Modal-6 .modal-body p {
+    color: #ffffff; 
+}
